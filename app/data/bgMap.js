@@ -1,0 +1,17 @@
+module.exports = {
+    "winxp": "win-xp-bg-noblur.jpg",
+    "win7": "win-7-bg-noblur.jpg",
+    "win8": "win-8-bg-noblur.jpg",
+    "win8_1": "winphone-bg-noblur.jpg",
+    "win10": "win-10-bg.jpg",
+    "macsl": "snow-leopard-bg-noblur.jpg",
+    "maclion": "lion-bg-noblur.jpg",
+    "macml": "mountain-lion-bg-noblur.jpg",
+    "macmav": "mavericks-bg-noblur.jpg",
+    "macyos": "yosemite-bg-noblur.jpg",
+    "macelc": "el-capitan-bg-noblur.jpg",
+    "macsie": "sierra-bg-noblur.jpg",
+    "machs": "high-sierra-bg-noblur.jpg",
+    "realios": "live-ios-bg-img.jpg",
+    "realdroid": "live-android-bg-img.jpg",
+}
